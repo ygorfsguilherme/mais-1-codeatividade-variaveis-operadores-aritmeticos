@@ -1,0 +1,1 @@
+const diâmetro = 3
